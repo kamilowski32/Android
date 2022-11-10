@@ -1,0 +1,9 @@
+C:\git\Android\zadanie2\src\DataBases\ProductsDataBase.kt
+C:\git\Android\zadanie2\src\controllers\CategoriesController.kt
+C:\git\Android\zadanie2\src\Application.kt
+C:\git\Android\zadanie2\src\models\Categories.kt
+C:\git\Android\zadanie2\src\controllers\ProductController.kt
+C:\git\Android\zadanie2\src\routes\CategoriesRoutes.kt
+C:\git\Android\zadanie2\src\DataBases\CategoriesDataBase.kt
+C:\git\Android\zadanie2\src\routes\ProductRoutes.kt
+C:\git\Android\zadanie2\src\models\Products.kt
