@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ListaZadan</string>
+    <string name="tytul">TWOJE ZADANIA DO WYKONANIA</string>
+
+    <string-array name="Zadania">
+        <item>Lista zadan na Androida</item>
+        <item>Pouczyc sie ML</item>
+        <item>Esej na angielski</item>
+        <item>Zrobic zakupy</item>
+        <item>Kalkulator dokonczyc</item>
+    </string-array>
+</resources>
