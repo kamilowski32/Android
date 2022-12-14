@@ -10,4 +10,6 @@ Zadanie 3 zrobione na 4.5
 
 Zadanie 4 zrobione na 3.0
 
+Zadanie 5 zrobione na 4.5(?)
+
 >>>>>>> d630e105f07cf3ae22ab174f58841c1600edd57b
